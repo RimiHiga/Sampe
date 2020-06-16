@@ -1,14 +1,14 @@
-#はじめてのGitHub
+# はじめてのGitHub
 
-m-akamine 比嘉李海
+RimiHiga 比嘉李海
   
 <https://github.com/RimiHiga/Sampe.git>
 
-##ローカルリポジトリ
+## ローカルリポジトリ
 
 * お好み焼きレシピ
 　[okonomiyaki.txt](okonomiyaki.txt)
 
-##リモートリポジトリ
+## リモートリポジトリ
 * [README.md](README.md)を作ってみる
 * マークダウンを覚える
